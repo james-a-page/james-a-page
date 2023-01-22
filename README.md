@@ -1,4 +1,4 @@
-3rd Yr CompSci Student at Warwick 
+MEng Computer Science Student at Warwick
 
 <!---
 james-a-page/james-a-page is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

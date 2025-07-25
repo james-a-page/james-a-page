@@ -1,4 +1,5 @@
 Software Engineering at JPMC
+
 MEng Computer Science from Warwick
 
 Mostly old half baked projects and past university work nothing proper here yet..
